@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Fun88 App
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Fun88 <https://fun-88.app/>`_ thương hiệu nhà cái uy tín được cấp phép hoạt động bởi Pogor. Nhà cái Fun88 cung cấp đa dạng thể loại cá cược: lô đề, cá độ thể thao, slot game,.. Tham gia Fun88 tại link vào nhà cái https://fun-88.app/ để có thể tận hưởng không gian giải trí đẳng cấp. Tải về Fun88 App nhận ngay 88k tiền thưởng hội viên. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 113A Hòa Bình, Tân Thới Hoà, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0711281288. 
 
-Contents
---------
+Email: info@fun-88.app. 
 
-.. toctree::
+Website: https://fun-88.app/ 
 
-   usage
-   api
+#fun88 #fun88app #nhacaifun88 #fun_88app #fun88dangnhap #fun_88
